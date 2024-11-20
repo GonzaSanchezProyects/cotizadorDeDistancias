@@ -14,9 +14,3 @@
 - **HTML5**: Estructura de la aplicación.
 - **CSS3**: Estilización del diseño.
 - **JavaScript**: Lógica de cálculo y dinámicas interactivas.
-
-## 📋 Cómo Usar
-
-1. Clona este repositorio en tu máquina local:
-   ```bash
-   git clone https://github.com/usuario/cotizador-de-distancia.git
